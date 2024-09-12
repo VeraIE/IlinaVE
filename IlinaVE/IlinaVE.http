@@ -1,0 +1,6 @@
+@IlinaVE_HostAddress = http://localhost:5271
+
+GET {{IlinaVE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
